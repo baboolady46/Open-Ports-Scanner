@@ -212,4 +212,4 @@ Open Ports Scanner is a complete free version with all features and updates incl
 Take control of your network today with Open Ports Scanner! Download now and ensure your connections are secure.
 
 ---
-**Last updated:** 2026-11-03 02:44:54 UTC
+**Last updated:** 2026-11-03 10:13:58 UTC
